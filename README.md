@@ -12,6 +12,6 @@ Our developed restoration-based routing modules: network_aware.py, reactive_udp.
 
 Configuration of the routing protocols: batman-adv.sh, olsr.sh, and open11s.sh (the configurations of MR1)
 
-Protection with BFD and FF group tables in SDN: enable_bfd.sh, GT_UDP.sh, and GT.TCP.sh
+Protection with BFD and FF group tables in SDN: enable_bfd.sh, GT_UDP.sh, and GT_TCP.sh
 
 
